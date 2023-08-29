@@ -1,12 +1,10 @@
-## Hi there 👋
+# Non-Equilibrium QCD
 
-<!--
+We are a collaboration of scientists working on diverse aspects of theoretical High Energy Physics, namely on the side of Quantum Chromodyanamics.
+The topics our collaboarion works with are
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Effective Kinetic Theory
+* Classical Statistical Field Theory
+* Hydrodynamical Simulations
+* Saturation Physics
+* Critical Phenomena
